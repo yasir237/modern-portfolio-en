@@ -9,33 +9,52 @@ A modern, high-performance, and scalable developer portfolio application. It com
 </p>
 
 ## Home Page
+<img width="1908" height="904" alt="Ekran görüntüsü 2026-02-22 235504" src="https://github.com/user-attachments/assets/5e41241f-9beb-4717-8aed-b2f303c8ae1e" />
 
-<img width="1907" height="909" alt="image" src="[https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721](https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721)" />
-<img width="1911" height="816" alt="image" src="[https://github.com/user-attachments/assets/173026ed-45b9-4395-958b-6541b270d07e](https://github.com/user-attachments/assets/173026ed-45b9-4395-958b-6541b270d07e)" />
-<img width="1909" height="894" alt="image" src="[https://github.com/user-attachments/assets/af13c0c1-f702-43b2-8db0-b2e22888e53c](https://github.com/user-attachments/assets/af13c0c1-f702-43b2-8db0-b2e22888e53c)" />
-<img width="1907" height="869" alt="image" src="[https://github.com/user-attachments/assets/36063fa3-3617-4ea1-95e7-5f00ebb2000f](https://github.com/user-attachments/assets/36063fa3-3617-4ea1-95e7-5f00ebb2000f)" />
-<img width="1907" height="855" alt="image" src="[https://github.com/user-attachments/assets/fb7db8f7-9c67-461a-89c1-d2b2d99fe065](https://github.com/user-attachments/assets/fb7db8f7-9c67-461a-89c1-d2b2d99fe065)" />
-<img width="1906" height="905" alt="image" src="[https://github.com/user-attachments/assets/23b0052a-cf46-43da-a781-98d7a9adc737](https://github.com/user-attachments/assets/23b0052a-cf46-43da-a781-98d7a9adc737)" />
-<img width="1909" height="907" alt="image" src="[https://github.com/user-attachments/assets/80bd1347-a91e-475c-9d5b-1dff4b24877d](https://github.com/user-attachments/assets/80bd1347-a91e-475c-9d5b-1dff4b24877d)" />
-<img width="1910" height="789" alt="image" src="[https://github.com/user-attachments/assets/0e7b338b-ec48-4a1d-8af7-f9db276e55da](https://github.com/user-attachments/assets/0e7b338b-ec48-4a1d-8af7-f9db276e55da)" />
-<img width="1906" height="830" alt="image" src="[https://github.com/user-attachments/assets/4c114dde-75d6-47bc-b357-7045494a6e25](https://github.com/user-attachments/assets/4c114dde-75d6-47bc-b357-7045494a6e25)" />
-<img width="1907" height="904" alt="image" src="[https://github.com/user-attachments/assets/ea3f82e5-bc82-457f-b7ec-fe731b84c035](https://github.com/user-attachments/assets/ea3f82e5-bc82-457f-b7ec-fe731b84c035)" />
-<img width="1908" height="846" alt="image" src="[https://github.com/user-attachments/assets/902feaac-1a5c-4a08-a1c2-8f7955cb8d4e](https://github.com/user-attachments/assets/902feaac-1a5c-4a08-a1c2-8f7955cb8d4e)" />
-<img width="1908" height="838" alt="image" src="[https://github.com/user-attachments/assets/66139203-4b81-4157-a4fd-348888eb63b7](https://github.com/user-attachments/assets/66139203-4b81-4157-a4fd-348888eb63b7)" />
-<img width="1907" height="767" alt="image" src="[https://github.com/user-attachments/assets/159fc7df-79dd-409e-837a-d5744df2c27d](https://github.com/user-attachments/assets/159fc7df-79dd-409e-837a-d5744df2c27d)" />
-<img width="1911" height="655" alt="image" src="[https://github.com/user-attachments/assets/4ac9d84d-b37f-4650-a7c8-dd59d97fbe1c](https://github.com/user-attachments/assets/4ac9d84d-b37f-4650-a7c8-dd59d97fbe1c)" />
-<img width="1911" height="823" alt="image" src="[https://github.com/user-attachments/assets/1964fb97-1f2e-4e69-be20-d4318a64c2db](https://github.com/user-attachments/assets/1964fb97-1f2e-4e69-be20-d4318a64c2db)" />
-<img width="1908" height="286" alt="image" src="[https://github.com/user-attachments/assets/7a8abbf6-1af2-4d5f-9add-7c6557d6e822](https://github.com/user-attachments/assets/7a8abbf6-1af2-4d5f-9add-7c6557d6e822)" />
+<img width="1907" height="825" alt="Ekran görüntüsü 2026-02-22 235528" src="https://github.com/user-attachments/assets/cf3d8cc1-3f61-4cd8-866e-e7612f9a3602" />
+
+<img width="1903" height="828" alt="Ekran görüntüsü 2026-02-22 235541" src="https://github.com/user-attachments/assets/f4ea28a9-3963-40eb-b9fc-ab3632c6a499" />
+
+<img width="1906" height="816" alt="Ekran görüntüsü 2026-02-22 235619" src="https://github.com/user-attachments/assets/36c8d387-fed1-4299-a273-30f1aa81cd98" />
+
+<img width="1907" height="805" alt="Ekran görüntüsü 2026-02-22 235634" src="https://github.com/user-attachments/assets/7247fe36-262c-479d-97cd-67185b1de8ef" />
+
+<img width="1908" height="802" alt="Ekran görüntüsü 2026-02-22 235650" src="https://github.com/user-attachments/assets/2c9d7f67-a465-404b-8147-427439be2f8a" />
+
+<img width="1908" height="800" alt="Ekran görüntüsü 2026-02-22 235703" src="https://github.com/user-attachments/assets/1c19082a-b548-4501-b739-63f840c9c895" />
+
+<img width="1907" height="785" alt="Ekran görüntüsü 2026-02-22 235710" src="https://github.com/user-attachments/assets/a37195d0-11ed-49b0-b407-0c70b21a951f" />
+
+<img width="1905" height="812" alt="Ekran görüntüsü 2026-02-22 235720" src="https://github.com/user-attachments/assets/6e8a9046-fc73-4d48-931d-feb962662547" />
+
+<img width="1906" height="903" alt="Ekran görüntüsü 2026-02-22 235806" src="https://github.com/user-attachments/assets/41dfb148-350a-4df7-ba61-e825987bc824" />
+
+<img width="1905" height="880" alt="Ekran görüntüsü 2026-02-22 235817" src="https://github.com/user-attachments/assets/e751872b-77d8-4476-8684-72c2dc581d1d" />
+
+<img width="1907" height="831" alt="Ekran görüntüsü 2026-02-22 235828" src="https://github.com/user-attachments/assets/ebc4483e-853c-4907-88fa-ea8a827ca900" />
+
+<img width="1906" height="714" alt="Ekran görüntüsü 2026-02-22 235837" src="https://github.com/user-attachments/assets/dd538b64-f82b-4ac2-ab90-d116c454f30f" />
+
+<img width="1906" height="730" alt="Ekran görüntüsü 2026-02-22 235844" src="https://github.com/user-attachments/assets/d84cf55b-45ad-4d77-abb0-19c451c4a237" />
+
+<img width="1909" height="900" alt="Ekran görüntüsü 2026-02-23 000011" src="https://github.com/user-attachments/assets/0f6d3765-2479-4df6-b092-3fd6963a36b0" />
+
+<img width="1908" height="247" alt="Ekran görüntüsü 2026-02-22 235904" src="https://github.com/user-attachments/assets/f925f98a-7014-4a51-b72c-da2c850caae8" />
+
+
+
+
+
 
 ## Projects
 
-<img width="1908" height="900" alt="image" src="[https://github.com/user-attachments/assets/9d1a0905-7773-4e69-940b-4b0f8ea15e91](https://github.com/user-attachments/assets/9d1a0905-7773-4e69-940b-4b0f8ea15e91)" />
+<img width="1909" height="903" alt="Ekran görüntüsü 2026-02-23 000049" src="https://github.com/user-attachments/assets/ead3bf80-08f9-4cec-9400-875f48c66cbf" />
 
 ## Project Details
 
-<img width="1909" height="908" alt="image" src="[https://github.com/user-attachments/assets/97fd5c0b-b48c-422e-889f-7e3174963515](https://github.com/user-attachments/assets/97fd5c0b-b48c-422e-889f-7e3174963515)" />
-<img width="1910" height="881" alt="image" src="[https://github.com/user-attachments/assets/8d5282e6-0c7c-414b-aa42-20d41f7d91c9](https://github.com/user-attachments/assets/8d5282e6-0c7c-414b-aa42-20d41f7d91c9)" />
-<img width="1907" height="890" alt="image" src="[https://github.com/user-attachments/assets/ea0f57e1-b8bc-45d1-8355-a58a86b67aee](https://github.com/user-attachments/assets/ea0f57e1-b8bc-45d1-8355-a58a86b67aee)" />
+<img width="1908" height="906" alt="Ekran görüntüsü 2026-02-23 000228" src="https://github.com/user-attachments/assets/64c9942a-d68b-42a1-8b39-d619d68e8b77" />
+
+<img width="1906" height="824" alt="Ekran görüntüsü 2026-02-23 000238" src="https://github.com/user-attachments/assets/38400175-713b-40ac-989c-77bc1daa9e39" />
 
 ## Key Features (Last Update: 2025)
 
@@ -48,12 +67,15 @@ A modern, high-performance, and scalable developer portfolio application. It com
 * 🎯 Productizable infrastructure (Suitable for sale as a template)
 * 🔄 Scalable project management system
 
-<a href="[https://github.com/yasir237/modern-portfolio-dokumantasyon-tr](https://github.com/yasir237/modern-portfolio-dokumantasyon-tr)" >
-<img width="1696" height="608" alt="Documentation Page" src="[https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978](https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978)" />
+
+
+
+<a href="https://github.com/yasir237/modern-portfolio-documentation" >
+<img width="1696" height="608" alt="Documentation Page" src="https://github.com/user-attachments/assets/9ea2b618-c27d-45d0-bfc1-72b752bd59b6" />
 </a>
 
 <p align="center">
-If the documentation page doesn't open, you can access it <a href="[https://github.com/yasir237/modern-portfolio-dokumantasyon-tr](https://github.com/yasir237/modern-portfolio-dokumantasyon-tr)">here</a>.
+If the documentation page doesn't open, you can access it <a href="https://github.com/yasir237/modern-portfolio-documentation">here</a>.
 </p>
 
 ## What is Modern Portfolio?
@@ -124,7 +146,7 @@ Display multiple code snippets or text blocks using a tabbed structure.
 
 Thanks to this structure, the portfolio can deliver rich content both technically and visually.
 
-<img width="896" height="1200" alt="Gemini_Generated_Image_meb4o1meb4o1meb4 (1)" src="[https://github.com/user-attachments/assets/b977d734-f703-47e7-a451-f272a346a5e3](https://github.com/user-attachments/assets/b977d734-f703-47e7-a451-f272a346a5e3)" />
+<img width="896" height="1200" alt="structure" src="https://github.com/user-attachments/assets/e02a450f-6f8e-4844-9c8b-d8a2916003dd" />
 
 # Performance and User Experience
 
@@ -153,10 +175,10 @@ To provide visitors with a clean, trustworthy, and highly professional digital e
 * Technical professionals wanting to strengthen their personal brand
 * Developers looking to productize their portfolio
 
-<a href="[https://github.com/yasir237/modern-portfolio-dokumantasyon-tr](https://github.com/yasir237/modern-portfolio-dokumantasyon-tr)" >
-<img width="1696" height="608" alt="Documentation Page" src="[https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978](https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978)" />
+<a href="https://github.com/yasir237/modern-portfolio-documentation" >
+<img width="1696" height="608" alt="Documentation Page" src="https://github.com/user-attachments/assets/9ea2b618-c27d-45d0-bfc1-72b752bd59b6" />
 </a>
 
 <p align="center">
-If the documentation page doesn't open, you can access it <a href="[https://github.com/yasir237/modern-portfolio-dokumantasyon-tr](https://github.com/yasir237/modern-portfolio-dokumantasyon-tr)">here</a>.
+If the documentation page doesn't open, you can access it <a href="https://github.com/yasir237/modern-portfolio-documentation">here</a>.
 </p>
