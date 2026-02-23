@@ -64,7 +64,6 @@ A modern, high-performance, and scalable developer portfolio application. It com
 * 🚀 SEO-friendly dynamic routing structure
 * ♻️ Modular and reusable component architecture
 * 📱 100% responsive design
-* 🎯 Productizable infrastructure (Suitable for sale as a template)
 * 🔄 Scalable project management system
 
 
